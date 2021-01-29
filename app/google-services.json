@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "575378189545",
+    "firebase_url": "https://greduation-project.firebaseio.com",
+    "project_id": "greduation-project",
+    "storage_bucket": "greduation-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575378189545:android:1c821b37867f908728d478",
+        "android_client_info": {
+          "package_name": "com.example.getdataatrecycler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575378189545-rlhomt9pk3o79tbohrjm7u8mm7em3pdb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.getdataatrecycler",
+            "certificate_hash": "72abd032df0f291f2562d279ab78a81376d865ad"
+          }
+        },
+        {
+          "client_id": "575378189545-h1ovs1jhsvpmmsg10mtk5drbbuenr43p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwynr3M530VrwqDHHePXK5PbJ-UsFuBbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575378189545-h1ovs1jhsvpmmsg10mtk5drbbuenr43p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575378189545:android:3ca9503eb2529c2528d478",
+        "android_client_info": {
+          "package_name": "com.example.greduationproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575378189545-p0lvpioahl215ukupip2jclijq9fhep8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.greduationproject",
+            "certificate_hash": "72abd032df0f291f2562d279ab78a81376d865ad"
+          }
+        },
+        {
+          "client_id": "575378189545-ipmjtlpn9fa2nsjhfg5dtmpfpk18eb98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.greduationproject",
+            "certificate_hash": "a02b41c4147773866d7d4cca1bea54de99bd7a0f"
+          }
+        },
+        {
+          "client_id": "575378189545-h1ovs1jhsvpmmsg10mtk5drbbuenr43p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwynr3M530VrwqDHHePXK5PbJ-UsFuBbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575378189545-h1ovs1jhsvpmmsg10mtk5drbbuenr43p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

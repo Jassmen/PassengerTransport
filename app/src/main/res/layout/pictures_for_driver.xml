@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="5dp"
+        android:orientation="horizontal"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:background="@drawable/layout_ground">
+
+        <ImageView
+            android:id="@+id/personal_pic1"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/pic_ground"
+            android:src="@drawable/profile" />
+
+        <TextView
+            android:id="@+id/text1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/personalpic"
+            android:textAllCaps="false"
+            android:textColor="@android:color/black"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_marginLeft="5dp"
+            android:layout_gravity="center_vertical"
+            android:drawableRight="@drawable/ic_camera_alt_black_24dp"/>
+
+    </LinearLayout>
+
+    <!--**************************-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="5dp"
+        android:orientation="horizontal"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:background="@drawable/layout_ground">
+
+        <ImageView
+            android:id="@+id/id_pic"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/pic_ground"
+            android:src="@drawable/profile" />
+
+        <TextView
+            android:id="@+id/text2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/ID"
+            android:textAllCaps="false"
+            android:textColor="@android:color/black"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_marginLeft="5dp"
+            android:layout_gravity="center_vertical"
+            android:drawableRight="@drawable/ic_camera_alt_black_24dp"/>
+
+    </LinearLayout>
+    <!--**************************-->
+    <!--**************************-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="5dp"
+        android:orientation="horizontal"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:background="@drawable/layout_ground">
+
+        <ImageView
+            android:id="@+id/driving_pic"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/pic_ground"
+            android:src="@drawable/profile" />
+
+        <TextView
+            android:id="@+id/text3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/DrivingLicensepic"
+            android:textAllCaps="false"
+            android:textColor="@android:color/black"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_marginLeft="5dp"
+            android:layout_gravity="center_vertical"
+            android:drawableRight="@drawable/ic_camera_alt_black_24dp"/>
+
+    </LinearLayout>
+    <!--**************************-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="5dp"
+        android:orientation="horizontal"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:background="@drawable/layout_ground">
+
+        <ImageView
+            android:id="@+id/carlicenes_pic"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/pic_ground"
+            android:src="@drawable/profile" />
+
+        <TextView
+            android:id="@+id/text4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Carlicense"
+            android:textAllCaps="false"
+            android:textColor="@android:color/black"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_marginLeft="5dp"
+            android:layout_gravity="center_vertical"
+            android:drawableRight="@drawable/ic_camera_alt_black_24dp"/>
+
+    </LinearLayout>
+    <!--**************************-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="5dp"
+        android:orientation="horizontal"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:background="@drawable/layout_ground">
+
+        <ImageView
+            android:id="@+id/criminal_pic"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/pic_ground"
+            android:src="@drawable/profile" />
+
+        <TextView
+            android:id="@+id/text5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/criminallicense"
+            android:textAllCaps="false"
+            android:textColor="@android:color/black"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_marginLeft="5dp"
+            android:layout_gravity="center_vertical"
+            android:drawableRight="@drawable/ic_camera_alt_black_24dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>
+

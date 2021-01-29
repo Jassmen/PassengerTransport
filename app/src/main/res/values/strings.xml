@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">M3ak</string>
+
+
+    <string name="nameofcar">Car name</string>
+    <string name="modelofcar">Model</string>
+    <string name="txt">Complet this information </string>
+    <string name="personalpic">personal picture</string>
+    <string name="ID">Personal ID picture</string>
+    <string name="DrivingLicensepic">Driving License picture</string>
+    <string name="Carlicense">Car License picture</string>
+    <string name="criminallicense">Criminal License picture</string>
+    <string name="age">Enter your Age</string>
+    <string name="btnsubmit">Submit</string>
+    <string name="welcome">Welcome to M3ak app</string>
+    <string name="signin">SignIn</string>
+    <string name="register">Login</string>
+    <string name="signup">Register</string>
+    <string name="price">Price</string>
+    <string name="Name">Full Name</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="city">City</string>
+    <string name="gender">Gender</string>
+    <string name="textOnRegister">Create an account to access all features.\n Register with FaceBook ,Twitter,or with your email address</string>
+    <string name="textOnSignin">Signin with  with FaceBook ,Twitter,or with your email address. </string>
+
+    <string name="phoneVerification">Verification code</string>
+    <string name="checkPhone">Get Code</string>
+    <string name="successCode">Successful Code</string>
+    <string name="inSuccessCode">In correct verification code</string>
+    <string name="registerText">Please enter all your information</string>
+    <string name="alreadySignIn">Already have an account? Login</string>
+    <string name="signUp">Don\'t have account? SignUp</string>
+    <string name="input_error_name">name required</string>
+    <string name="input_error_email">email required</string>
+    <string name="input_error_password">password required</string>
+    <string name="input_error_phone">phone required</string>
+    <string name="input_error_password_length">password should be atleast 6 characters long</string>
+    <string name="input_error_phone_invalid">enter a valid phone number</string>
+    <string name="registration_success">Registered Successfully</string>
+    <string name="registration_fail">Registered Failed </string>
+    <string name="input_error_email_invalid">enter a valid email</string>
+    <string name="Driver_info">driver_info</string>
+    <string name="somking_or_not">SmokingOrNot</string>
+    <string name="passenger_info">PassengerInfo</string>
+
+    <string name="send_request">Send Request</string>
+    <string name="waiting_time">Waiting Time</string>
+    <string name="point_that_we_will_meet">Point we meet</string>
+
+    <string name="map_key" translatable="false">AIzaSyCVkRbqIhXgLr0XE65zTy1Sks9_i99QYZw</string>
+
+
+
+
+
+</resources>
+
+
